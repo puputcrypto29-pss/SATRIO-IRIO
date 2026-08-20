@@ -1,0 +1,87 @@
+[
+  {
+    "id": 0,
+    "code": "A",
+    "name": "Pertanian, Kehutanan, dan Perikanan"
+  },
+  {
+    "id": 1,
+    "code": "B",
+    "name": "Pertambangan dan Penggalian"
+  },
+  {
+    "id": 2,
+    "code": "C",
+    "name": "Industri Pengolahan"
+  },
+  {
+    "id": 3,
+    "code": "D",
+    "name": "Pengadaan Listrik dan Gas"
+  },
+  {
+    "id": 4,
+    "code": "E",
+    "name": "Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang"
+  },
+  {
+    "id": 5,
+    "code": "F",
+    "name": "Konstruksi"
+  },
+  {
+    "id": 6,
+    "code": "G",
+    "name": "Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor"
+  },
+  {
+    "id": 7,
+    "code": "H",
+    "name": "Transportasi dan Pergudangan"
+  },
+  {
+    "id": 8,
+    "code": "I",
+    "name": "Penyediaan Akomodasi dan Makan Minum"
+  },
+  {
+    "id": 9,
+    "code": "J",
+    "name": "Informasi dan Komunikasi"
+  },
+  {
+    "id": 10,
+    "code": "K",
+    "name": "Jasa Keuangan dan Asuransi"
+  },
+  {
+    "id": 11,
+    "code": "L",
+    "name": "Real Estate"
+  },
+  {
+    "id": 12,
+    "code": "MN",
+    "name": "Jasa Perusahaan"
+  },
+  {
+    "id": 13,
+    "code": "O",
+    "name": "Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib"
+  },
+  {
+    "id": 14,
+    "code": "P",
+    "name": "Jasa Pendidikan"
+  },
+  {
+    "id": 15,
+    "code": "Q",
+    "name": "Jasa Kesehatan dan Kegiatan Sosial"
+  },
+  {
+    "id": 16,
+    "code": "RSTU",
+    "name": "Jasa Lainnya"
+  }
+]
