@@ -29,13 +29,12 @@ export interface Sector {
 }
 
 export interface Summary {
-  provinces: number;
-  sectors: number;
-  province_sector_nodes: number;
-  interactions: number;
+  province_count: number;
+  sector_count: number;
+  province_sector_count: number;
   total_output_triliun_rp: number;
-  total_va_triliun_rp: number;
-  model_year: number;
+  model_type: string;
+  matrix_dimension: string;
 }
 
 export interface ShockInput {

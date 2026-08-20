@@ -108,9 +108,9 @@ export default function HomePage() {
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-8">
           <div className="grid grid-cols-2 md:grid-cols-5 gap-6">
             {[
-              { value: (summary as Record<string, unknown>)?.province_count ?? summary?.provinces ?? 34, label: "Provinsi" },
-              { value: (summary as Record<string, unknown>)?.sector_count ?? summary?.sectors ?? 17, label: "Lapangan Usaha" },
-              { value: (summary as Record<string, unknown>)?.province_sector_count ?? summary?.province_sector_nodes ?? 578, label: "Node Provinsi-Sektor" },
+              { value: String(summary?.province_count ?? 34), label: "Provinsi" },
+              { value: String(summary?.sector_count ?? 17), label: "Lapangan Usaha" },
+              { value: String(summary?.province_sector_count ?? 578), label: "Node Provinsi-Sektor" },
               { value: "334.084", label: "Interaksi Ekonomi" },
               { value: "IRIO", label: "Model Leontief" },
             ].map((metric, i) => (
